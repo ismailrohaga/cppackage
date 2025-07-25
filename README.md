@@ -43,6 +43,7 @@ And thanks to the following projects for helping me to jump start my C++/FTXUI j
 
 - [lazylist](https://github.com/zhuyongqi9/lazylist)
 - [git-tui](https://github.com/ArthurSonzogni/git-tui)
+- [ftxui-starter](https://github.com/ArthurSonzogni/ftxui-starter)
 
 ---
 

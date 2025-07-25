@@ -10,6 +10,7 @@ Thumbs.db
 # build files
 build
 cmake-build-debug
+.cache
 
 # Prerequisites
 *.d
