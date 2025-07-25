@@ -3,7 +3,7 @@ build:
 	cmake --build build
 
 run:
-	./build/app
+	./build/cppackage
 
 rebuild: clean build
 

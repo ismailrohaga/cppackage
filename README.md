@@ -20,6 +20,10 @@ Created for a hackathon, **cppackage** solves the hassle of managing packages an
 - **Day 2**: Code `brew` and `npm` package features. Test with a basic menu, UI should be just replicating lazygit layout.
 - **Day 3**: Polish and if possible add dotfile support—read/write `.zshrc` using C++ file I/O (IDK IF THIS IS REALISTIC). Polish the TUI and test in mac.
 
+## Install
+
+> ninja is required
+
 ## Personal Note
 
 I’m building this amidst wedding prep, driven by love for my soon-to-be wife and a passion to create something useful. Bismillah, I hope it shines!
